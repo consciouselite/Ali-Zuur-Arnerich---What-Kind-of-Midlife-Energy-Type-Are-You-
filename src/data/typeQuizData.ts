@@ -1,6 +1,6 @@
 import { Question, PersonalityType } from '../types/quizTypes';
 
-export const quizTitle = "What Kind of Midlife Energy Type Are You? [QUIZ]";
+export const quizTitle = "What Midlife Energy Type Are You? [QUIZ]";
 export const quizSubtitle = "Discover your unique midlife energy signature and how it's shaping your next chapter in just 3 minutes";
 
 // Helper function to randomize options order
